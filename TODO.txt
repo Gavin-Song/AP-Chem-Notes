@@ -1,0 +1,5 @@
+Add a thumbnail to img/thumbnail.png
+Fix titlebar on mobile
+clicking on a link in the titlebar makes it disappear
+
+https://sites.google.com/site/chempendix/ionization
