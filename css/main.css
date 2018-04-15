@@ -30,6 +30,10 @@ pre{
     border-radius: 0;
 }
 
+summary:hover{
+    cursor: pointer;
+}
+
 .content{
     margin-top: 77px;
     min-height: calc(100vh - 164px);
