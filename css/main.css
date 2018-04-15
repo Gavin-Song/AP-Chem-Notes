@@ -26,6 +26,10 @@ button:hover{
     transition: filter 0.2s;
 }
 
+pre{
+    border-radius: 0;
+}
+
 .content{
     margin-top: 77px;
     min-height: calc(100vh - 164px);
@@ -53,4 +57,13 @@ button:hover{
 .fun-fact{
     padding: 15px;
     background-color: #FFE57F
+}
+
+.icebox{
+    font-size: 22px;
+    color: black;
+}
+
+.icebox td{
+    padding: 0px 10px;
 }
